@@ -24,32 +24,26 @@ jobs:
           ./get_latest_release.sh
         shell: bash
 
-      # Step 3: Setup .NET
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: 8.0.x
+      # # Step 3: Setup .NET
+      # - name: Setup .NET
+      #   uses: actions/setup-dotnet@v4
+      #   with:
+      #     dotnet-version: 8.0.x
 
-      # Step 4: Install ML.NET CLI
-      - name: Install ML.NET CLI
-        run: dotnet tool install -g mlnet-linux-x64
+      # # Step 4: Install ML.NET CLI
+      # - name: Install ML.NET CLI
+      #   run: dotnet tool install -g mlnet-linux-x64
 
-      # Step 5: Refactor input data
-      - name: Refactor input
-        run: awk -F'\t' '{print $2 "\t" $1}' "processed/combined.txt" > "processed/combined_refactored.txt"
+      # # Step 6: Train the model with matrix train time
+      # - name: Train your model
+      #   run: mlnet classification --dataset "processed/combined_refactored.txt" --label-col 1 --has-header false --name "SentimentModel_${{ matrix.train-time }}" --train-time ${{ matrix.train-time }}
 
-      # Step 6: Train the model with matrix train time
-      - name: Train your model
-        run: mlnet classification --dataset "processed/combined_refactored.txt" --label-col 1 --has-header false --name "SentimentModel_${{ matrix.train-time }}" --train-time ${{ matrix.train-time }}
-
-      # Step 7: Configure Git
       - name: Configure Git
         if: always()
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
-      # Step 8: Commit and push changes
+    
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

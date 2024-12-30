@@ -65,6 +65,10 @@ done
 # Remove blank lines
 sed -i '/^$/d' "$COMBINED_FILE"
 
+# Refactor code
+COMBINED_REFACTORED="$PROCESSED_DIR/combined_refactored.txt"
+awk -F'\t' '{print $2 "\t" $1}' "$COMBINED_FILE" > "$COMBINED_REFACTORED"
+
 # Output the combined file
-echo "Contents of the combined file:"
-ls -lh "$COMBINED_FILE" # Show size of the combined file
+echo "Contents of the combined refactored file:"
+ls -lh "$COMBINED_REFACTORED" # Show size of the combined file
