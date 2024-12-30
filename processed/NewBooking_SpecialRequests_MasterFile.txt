@@ -1,0 +1,340 @@
+NewBooking_SpecialRequests	Can we quest a room change due to an initial issue with our booking?
+NewBooking_SpecialRequests	Can we request a room change due to an initial progeny with our booking?
+NewBooking_SpecialRequests	butt we request a room change due to an initial issue with our booking?
+NewBooking_SpecialRequests	seat we request a room change due to an initial issue with our booking?
+NewBooking_SpecialRequests	Can we request an early breakfast at 6:00 americium?
+NewBooking_SpecialRequests	buttocks we request an early breakfast at 6:00 AM?
+NewBooking_SpecialRequests	lavatory we request an early breakfast at 6:00 AM?
+NewBooking_SpecialRequests	tin we request an early breakfast at 6:00 AM?
+NewBooking_SpecialRequests	Can we request an extension on our check-out time due to unforeseen consideration?
+NewBooking_SpecialRequests	keister we request an extension on our check-out time due to unforeseen circumstances?
+NewBooking_SpecialRequests	potty we request an extension on our check-out time due to unforeseen circumstances?
+NewBooking_SpecialRequests	tail we request an extension on our check-out time due to unforeseen circumstances?
+NewBooking_SpecialRequests	Can we request an additional blanket due to our allergy issues?
+NewBooking_SpecialRequests	Can we request an extra blanket referable to our allergy issues?
+NewBooking_SpecialRequests	Can we request an surplus blanket due to our allergy issues?
+NewBooking_SpecialRequests	behind we request an extra blanket due to our allergy issues?
+NewBooking_SpecialRequests	Can you arrange for a business essence with extra computers and printers?
+NewBooking_SpecialRequests	Can you arrange for a business midway with extra computers and printers?
+NewBooking_SpecialRequests	Can you arrange for a job center with extra computers and printers?
+NewBooking_SpecialRequests	Can you coif for a business center with extra computers and printers?
+NewBooking_SpecialRequests	Can you arrange for a team of staff to assist us during our bide?
+NewBooking_SpecialRequests	backside you arrange for a team of staff to assist us during our stay?
+NewBooking_SpecialRequests	potty you arrange for a team of staff to assist us during our stay?
+NewBooking_SpecialRequests	rump you arrange for a team of staff to assist us during our stay?
+NewBooking_SpecialRequests	Can you arrange for an airport shift with a dedicated driver?
+NewBooking_SpecialRequests	dismiss you arrange for an airport transfer with a dedicated driver?
+NewBooking_SpecialRequests	seat you arrange for an airport transfer with a dedicated driver?
+NewBooking_SpecialRequests	throne you arrange for an airport transfer with a dedicated driver?
+NewBooking_SpecialRequests	Can you make sure our shuttle driver piece me up 15 minutes before departure time?
+NewBooking_SpecialRequests	Can you piss sure our shuttle driver picks me up 15 minutes before departure time?
+NewBooking_SpecialRequests	bum you make sure our shuttle driver picks me up 15 minutes before departure time?
+NewBooking_SpecialRequests	derriere you make sure our shuttle driver picks me up 15 minutes before departure time?
+NewBooking_SpecialRequests	Can you please do for a late check-out on Sunday morning?
+NewBooking_SpecialRequests	lav you please arrange for a late check-out on Sunday morning?
+NewBooking_SpecialRequests	sack you please arrange for a late check-out on Sunday morning?
+NewBooking_SpecialRequests	stern you please arrange for a late check-out on Sunday morning?
+NewBooking_SpecialRequests	Can you curing up a meeting room with a whiteboard and chairs for 15 people?
+NewBooking_SpecialRequests	Can you dictated up a meeting room with a whiteboard and chairs for 15 people?
+NewBooking_SpecialRequests	Can you set up a meeting room with a whiteboard and moderate for 15 people?
+NewBooking_SpecialRequests	pot you set up a meeting room with a whiteboard and chairs for 15 people?
+NewBooking_SpecialRequests	I was wondering if it's possible to Koran a room with a view of the city.
+NewBooking_SpecialRequests	I was wondering if it's possible to book a room with a regard of the city.
+NewBooking_SpecialRequests	I was wondering if it's possible to book a room with a survey of the city.
+NewBooking_SpecialRequests	iodine was wondering if it's possible to book a room with a view of the city.
+NewBooking_SpecialRequests	I'd like to arrange for a welcome packet with local recommendations.
+NewBooking_SpecialRequests	I'd like to coiffe for a welcome package with local recommendations.
+NewBooking_SpecialRequests	I'd like to do for a welcome package with local recommendations.
+NewBooking_SpecialRequests	I'd wish to arrange for a welcome package with local recommendations.
+NewBooking_SpecialRequests	I'd like to request a high chair for my kid at dinner time.
+NewBooking_SpecialRequests	I'd like to request a high chair for my shaver at dinner time.
+NewBooking_SpecialRequests	I'd like to request a high professorship for my child at dinner time.
+NewBooking_SpecialRequests	I'd like to request a high-pitched chair for my child at dinner time.
+NewBooking_SpecialRequests	I'd like to request a placid room away from the main hallways.
+NewBooking_SpecialRequests	I'd like to request a quiet room away from the chief hallways.
+NewBooking_SpecialRequests	I'd like to request a silence room away from the main hallways.
+NewBooking_SpecialRequests	I'd like to request a subdued room away from the main hallways.
+NewBooking_SpecialRequests	I'd like to postulation an extra towel due to a skin condition.
+NewBooking_SpecialRequests	I'd like to request an extra towel due to a clamber condition.
+NewBooking_SpecialRequests	I'd like to request an extra towel imputable to a skin condition.
+NewBooking_SpecialRequests	I'd like to request an spare towel due to a skin condition.
+NewBooking_SpecialRequests	I'm concerned about the air quality in the hotel suite, can it be improved?
+NewBooking_SpecialRequests	I'm concerned about the line quality in the hotel rooms, can it be improved?
+NewBooking_SpecialRequests	I'm concerned about the vent quality in the hotel rooms, can it be improved?
+NewBooking_SpecialRequests	I'm interested about the air quality in the hotel rooms, can it be improved?
+NewBooking_SpecialRequests	I'm appear for a hotel with accessible parking options.
+NewBooking_SpecialRequests	I'm search for a hotel with accessible parking options.
+NewBooking_SpecialRequests	I'm seem for a hotel with accessible parking options.
+NewBooking_SpecialRequests	I'm wait for a hotel with accessible parking options.
+NewBooking_SpecialRequests	I'm bet for a hotel with an on-site gym that's accessible to seniors.
+NewBooking_SpecialRequests	I'm count for a hotel with an on-site gym that's accessible to seniors.
+NewBooking_SpecialRequests	I'm search for a hotel with an on-site gym that's accessible to seniors.
+NewBooking_SpecialRequests	I'm wait for a hotel with an on-site gym that's accessible to seniors.
+NewBooking_SpecialRequests	I'm looking for a direct with accessible facilities, can you recommend something?
+NewBooking_SpecialRequests	I'm looking for a home with accessible facilities, can you recommend something?
+NewBooking_SpecialRequests	I'm looking for a place with accessible facilities, can you advocate something?
+NewBooking_SpecialRequests	I'm looking for a situation with accessible facilities, can you recommend something?
+NewBooking_SpecialRequests	I'm on my way to Tokyo for a business spark and I'd like to request a room upgrade.
+NewBooking_SpecialRequests	I'm on my way to Tokyo for a business trip and I'd alike to request a room upgrade.
+NewBooking_SpecialRequests	I'm on my way to Tokyo for a business trip and I'd ilk to request a room upgrade.
+NewBooking_SpecialRequests	I'm on my way to Tokyo for a patronage trip and I'd like to request a room upgrade.
+NewBooking_SpecialRequests	I'm traveling with my service animal, can we acquire a special accommodation made for it?
+NewBooking_SpecialRequests	I'm traveling with my service animal, can we get a special accommodation pee-pee for it?
+NewBooking_SpecialRequests	I'm traveling with my service animal, can we get a special accommodation seduce for it?
+NewBooking_SpecialRequests	I'm traveling with my service animal, can we get a special accommodation work for it?
+NewBooking_SpecialRequests	My child will be accompanying me on this trigger, can you book two rooms?
+NewBooking_SpecialRequests	My child will be accompanying me on this trip, can you Book two rooms?
+NewBooking_SpecialRequests	My child will be accompanying me on this trip, can you record two rooms?
+NewBooking_SpecialRequests	My nestling will be accompanying me on this trip, can you book two rooms?
+NewBooking_SpecialRequests	My child will be need a babysitter during the day while I work.
+NewBooking_SpecialRequests	My child will be requiring a babysitter during the day while I form.
+NewBooking_SpecialRequests	My child will be requiring a babysitter during the day while I operate.
+NewBooking_SpecialRequests	My child will be requiring a babysitter during the day while single work.
+NewBooking_SpecialRequests	My colleague has a medical condition that requires a specific character of pillow, can you accommodate this request?
+NewBooking_SpecialRequests	My colleague has a medical condition that requires a specific type of pillow, can you lodge this request?
+NewBooking_SpecialRequests	My colleague has a medical condition that requires a specific type of rest, can you accommodate this request?
+NewBooking_SpecialRequests	My colleague has a medical condition that requires a specific typecast of pillow, can you accommodate this request?
+NewBooking_SpecialRequests	My colleague has allergies that ask special precautions in the room.
+NewBooking_SpecialRequests	My colleague has allergies that involve special precautions in the room.
+NewBooking_SpecialRequests	My colleague has allergies that require peculiar precautions in the room.
+NewBooking_SpecialRequests	My colleague has allergies that require special care in the room.
+NewBooking_SpecialRequests	My partner will be having a medical procedure during our arrest, can you provide extra support?
+NewBooking_SpecialRequests	My partner will be having a medical procedure during our bide, can you provide extra support?
+NewBooking_SpecialRequests	My partner will be having a medical procedure during our stay, can you provide redundant support?
+NewBooking_SpecialRequests	My partner will be having a medical subprogram during our stay, can you provide extra support?
+NewBooking_SpecialRequests	My collaborator will be joining me on this trip, can we book two rooms?
+NewBooking_SpecialRequests	My partner will be joining me on this trip, can we al-Qur'an two rooms?
+NewBooking_SpecialRequests	My partner will be joining me on this trip, can we leger two rooms?
+NewBooking_SpecialRequests	My partner will be joining me on this trip, can we playscript two rooms?
+NewBooking_SpecialRequests	Our event has a specific sound demand that need to be met by the hotel.
+NewBooking_SpecialRequests	Our event has a specific sound requirements that need to be contact by the hotel.
+NewBooking_SpecialRequests	Our event has a specific sound requirements that need to be encounter by the hotel.
+NewBooking_SpecialRequests	Our event has a specific sound requirements that need to be fulfil by the hotel.
+NewBooking_SpecialRequests	Our event postulate specific audio-visual equipment, can you provide it?
+NewBooking_SpecialRequests	Our event requires particular audio-visual equipment, can you provide it?
+NewBooking_SpecialRequests	Our event requires specific audio-visual equipment, can you furnish it?
+NewBooking_SpecialRequests	Our event want specific audio-visual equipment, can you provide it?
+NewBooking_SpecialRequests	Our team has mobility effect that require assistance, can you provide extra support?
+NewBooking_SpecialRequests	Our team has mobility issues that require assist, can you provide extra support?
+NewBooking_SpecialRequests	Our team has mobility issues that require assistance, can you provide extra abide?
+NewBooking_SpecialRequests	Our team has mobility payoff that require assistance, can you provide extra support?
+NewBooking_SpecialRequests	Our squad has specific needs regarding Wi-Fi speeds and connectivity.
+NewBooking_SpecialRequests	Our team has specific motivation regarding Wi-Fi speeds and connectivity.
+NewBooking_SpecialRequests	Our team has specific needs regarding Wi-Fi race and connectivity.
+NewBooking_SpecialRequests	Our team has specific needs regarding Wi-Fi swiftness and connectivity.
+NewBooking_SpecialRequests	Our team has specific demand for the temperature and humidity levels in the conference room.
+NewBooking_SpecialRequests	Our team has specific necessity for the temperature and humidity levels in the conference room.
+NewBooking_SpecialRequests	Our team has specific requirements for the temperature and humidity levels in the conference board.
+NewBooking_SpecialRequests	Our team has specific requirements for the temperature and humidity levels in the conference way.
+NewBooking_SpecialRequests	Our team has specific requirements involve water temperature and quality in the shower.
+NewBooking_SpecialRequests	Our team has specific requirements regarding irrigate temperature and quality in the shower.
+NewBooking_SpecialRequests	Our team has specific requirements regarding water temperature and lineament in the shower.
+NewBooking_SpecialRequests	Our team has specific requirements view water temperature and quality in the shower.
+NewBooking_SpecialRequests	Our team is celebrating a milestone and I'd ilk to request a cake for the conference room.
+NewBooking_SpecialRequests	Our team is celebrating a milestone and I'd like to request a patty for the conference room.
+NewBooking_SpecialRequests	Our team is lionise a milestone and I'd like to request a cake for the conference room.
+NewBooking_SpecialRequests	Our team is lionize a milestone and I'd like to request a cake for the conference room.
+NewBooking_SpecialRequests	Our team expect internet access speeds of 100 Mbps, can you guarantee this?
+NewBooking_SpecialRequests	Our team requires internet access speeding of 100 Mbps, can you guarantee this?
+NewBooking_SpecialRequests	Our team requires internet access speeds of c Mbps, can you guarantee this?
+NewBooking_SpecialRequests	Our team requires internet approach speeds of 100 Mbps, can you guarantee this?
+NewBooking_SpecialRequests	We'd like to request a board change due to noise levels coming from the hallway.
+NewBooking_SpecialRequests	We'd like to request a room change due to noise charge coming from the hallway.
+NewBooking_SpecialRequests	We'd like to request a room change due to noise levels approaching from the hallway.
+NewBooking_SpecialRequests	We'd like to request a room change due to noise levels occur from the hallway.
+NewBooking_SpecialRequests	We'll be remain for three nights, can we get two rooms with adjoining beds?
+NewBooking_SpecialRequests	We'll be staying for three nights, can we beget two rooms with adjoining beds?
+NewBooking_SpecialRequests	We'll be staying for three nights, can we generate two rooms with adjoining beds?
+NewBooking_SpecialRequests	We'll be staying for three nights, can we get two rooms with adjoining seam?
+NewBooking_SpecialRequests	We'll have a group of guests with dietary limitation, can you accommodate their needs?
+NewBooking_SpecialRequests	We'll have a group of guests with dietary restrictions, can you lodge their needs?
+NewBooking_SpecialRequests	We'll have a group of guests with dietary restrictions, can you oblige their needs?
+NewBooking_SpecialRequests	We'll have a group of guests with dietetical restrictions, can you accommodate their needs?
+NewBooking_SpecialRequests	We'll need a car rental with an extra derriere to accommodate our team's needs.
+NewBooking_SpecialRequests	We'll need a car rental with an extra induct to accommodate our team's needs.
+NewBooking_SpecialRequests	We'll need a car rental with an extra seat to lodge our team's needs.
+NewBooking_SpecialRequests	We'll need a car rental with an special seat to accommodate our team's needs.
+NewBooking_SpecialRequests	We'll motivation a car service arranged from the airport to the hotel.
+NewBooking_SpecialRequests	We'll need a car serve arranged from the airport to the hotel.
+NewBooking_SpecialRequests	We'll need a car service arrange from the airport to the hotel.
+NewBooking_SpecialRequests	We'll need a car service order from the airport to the hotel.
+NewBooking_SpecialRequests	We'll ask a conference room with a screen that's at least 65 inches.
+NewBooking_SpecialRequests	We'll need a conference room with a shield that's at least 65 inches.
+NewBooking_SpecialRequests	We'll need a conference room with a test that's at least 65 inches.
+NewBooking_SpecialRequests	We'll penury a conference room with a screen that's at least 65 inches.
+NewBooking_SpecialRequests	We'll need meeting fabric delivered to our hotel room by 8:00 AM.
+NewBooking_SpecialRequests	We'll need meeting materials delivered to our hotel room by 8:00 exist.
+NewBooking_SpecialRequests	We'll need meeting materials present to our hotel room by 8:00 AM.
+NewBooking_SpecialRequests	We'll need meeting stuff delivered to our hotel room by 8:00 AM.
+NewBooking_SpecialRequests	We'll need 2 meeting rooms back-to-back with a whiteboard and chairs.
+NewBooking_SpecialRequests	We'll need ii meeting rooms back-to-back with a whiteboard and chairs.
+NewBooking_SpecialRequests	We'll need two converge rooms back-to-back with a whiteboard and chairs.
+NewBooking_SpecialRequests	We'll need two meet rooms back-to-back with a whiteboard and chairs.
+NewBooking_SpecialRequests	Can I request a room on a higher floor with a quieter environs?
+NewBooking_SpecialRequests	backside I request a room on a higher floor with a quieter environment?
+NewBooking_SpecialRequests	buns I request a room on a higher floor with a quieter environment?
+NewBooking_SpecialRequests	commode I request a room on a higher floor with a quieter environment?
+NewBooking_SpecialRequests	Can I request a room that's equipped with a child crib?
+NewBooking_SpecialRequests	Can I request a room that's equipped with a mollycoddle crib?
+NewBooking_SpecialRequests	Can I request a room that's equipped with a pamper crib?
+NewBooking_SpecialRequests	seat I request a room that's equipped with a baby crib?
+NewBooking_SpecialRequests	Can ace request a room that's located near the airport?
+NewBooking_SpecialRequests	Can iodin request a room that's located near the airport?
+NewBooking_SpecialRequests	john I request a room that's located near the airport?
+NewBooking_SpecialRequests	toilet I request a room that's located near the airport?
+NewBooking_SpecialRequests	Can I request a board that's located near the city center or main attractions?
+NewBooking_SpecialRequests	Can I request a room that's located near the city focus or main attractions?
+NewBooking_SpecialRequests	Can I request a room that's located nearly the city center or main attractions?
+NewBooking_SpecialRequests	potty I request a room that's located near the city center or main attractions?
+NewBooking_SpecialRequests	Can 1 request a room that's located near the hotel pool or hot tub area?
+NewBooking_SpecialRequests	Can I request a board that's located near the hotel pool or hot tub area?
+NewBooking_SpecialRequests	Can I request a room that's located near the hotel pool or hot tub domain?
+NewBooking_SpecialRequests	derriere I request a room that's located near the hotel pool or hot tub area?
+NewBooking_SpecialRequests	Can you arrange for a extra dietary meal to be prepared?
+NewBooking_SpecialRequests	Can you arrange for a special dietary meal to be fix?
+NewBooking_SpecialRequests	derriere you arrange for a special dietary meal to be prepared?
+NewBooking_SpecialRequests	prat you arrange for a special dietary meal to be prepared?
+NewBooking_SpecialRequests	Can you arrange for a special welcome amenity or endue?
+NewBooking_SpecialRequests	Can you coiffure for a special welcome amenity or gift?
+NewBooking_SpecialRequests	buttocks you arrange for a special welcome amenity or gift?
+NewBooking_SpecialRequests	commode you arrange for a special welcome amenity or gift?
+NewBooking_SpecialRequests	Can you arrange for an duplicate bed in our booking?
+NewBooking_SpecialRequests	Can you arrange for an extra bottom in our booking?
+NewBooking_SpecialRequests	Can you arrange for an extra fuck in our booking?
+NewBooking_SpecialRequests	buttocks you arrange for an extra bed in our booking?
+NewBooking_SpecialRequests	Can you pee-pee a special request for an accessible room?
+NewBooking_SpecialRequests	Can you shuffle a special request for an accessible room?
+NewBooking_SpecialRequests	Can you shuffling a special request for an accessible room?
+NewBooking_SpecialRequests	bum you make a special request for an accessible room?
+NewBooking_SpecialRequests	Do you have any recommendations for wheelchair-friendly hotel?
+NewBooking_SpecialRequests	answer you have any recommendations for wheelchair-friendly hotels?
+NewBooking_SpecialRequests	do you have any recommendations for wheelchair-friendly hotels?
+NewBooking_SpecialRequests	execute you have any recommendations for wheelchair-friendly hotels?
+NewBooking_SpecialRequests	Do you have any rooms available with a hot tub or spa accession?
+NewBooking_SpecialRequests	Do you have any rooms available with a hot tub or spa approach?
+NewBooking_SpecialRequests	Do you have any rooms available with a spicy tub or spa access?
+NewBooking_SpecialRequests	coiffure you have any rooms available with a hot tub or spa access?
+NewBooking_SpecialRequests	Do you have any board available with a private outdoor space or garden view?
+NewBooking_SpecialRequests	Do you have any rooms available with a private outdoor space or garden purview?
+NewBooking_SpecialRequests	Do you have any rooms available with a secret outdoor space or garden view?
+NewBooking_SpecialRequests	Do you have any rooms useable with a private outdoor space or garden view?
+NewBooking_SpecialRequests	Do you have any rooms available with a roll-in shower or accessible john?
+NewBooking_SpecialRequests	Do you have any rooms uncommitted with a roll-in shower or accessible bathroom?
+NewBooking_SpecialRequests	bash you have any rooms available with a roll-in shower or accessible bathroom?
+NewBooking_SpecialRequests	brawl you have any rooms available with a roll-in shower or accessible bathroom?
+NewBooking_SpecialRequests	Do you have any rooms available with a offprint living area or suite?
+NewBooking_SpecialRequests	Do you have any rooms available with a split living area or suite?
+NewBooking_SpecialRequests	brawl you have any rooms available with a separate living area or suite?
+NewBooking_SpecialRequests	cause you have any rooms available with a separate living area or suite?
+NewBooking_SpecialRequests	Do you have any rooms available with a disjoined office or workspace?
+NewBooking_SpecialRequests	Do you have any rooms available with a separate function or workspace?
+NewBooking_SpecialRequests	Do you have any rooms available with a sort office or workspace?
+NewBooking_SpecialRequests	practice you have any rooms available with a separate office or workspace?
+NewBooking_SpecialRequests	I motive to book a room with a specific view of the city.
+NewBooking_SpecialRequests	I need to al-Qur'an a room with a specific view of the city.
+NewBooking_SpecialRequests	I need to book a room with a specific reckon of the city.
+NewBooking_SpecialRequests	I need to book a room with a specific survey of the city.
+NewBooking_SpecialRequests	I'd like to asking a room that can accommodate an extra guest at no additional cost.
+NewBooking_SpecialRequests	I'd like to request a room that can accommodate an extra Guest at no additional cost.
+NewBooking_SpecialRequests	I'd like to request a room that can accommodate an supernumerary guest at no additional cost.
+NewBooking_SpecialRequests	I'd like to request a room that can suit an extra guest at no additional cost.
+NewBooking_SpecialRequests	I'd like to request a room that can accommodate an extra pet at no additional price.
+NewBooking_SpecialRequests	I'd like to request a room that can accommodate an superfluous pet at no additional cost.
+NewBooking_SpecialRequests	I'd like to request a room that can adapt an extra pet at no additional cost.
+NewBooking_SpecialRequests	I'd like to request a room that can hold an extra pet at no additional cost.
+NewBooking_SpecialRequests	I'd care to request a specific type of bedding or linens.
+NewBooking_SpecialRequests	I'd ilk to request a specific type of bedding or linens.
+NewBooking_SpecialRequests	I'd like to asking a specific type of bedding or linens.
+NewBooking_SpecialRequests	I'd wish to request a specific type of bedding or linens.
+NewBooking_SpecialRequests	I'm front for a hotel that offers a fitness center or gym access.
+NewBooking_SpecialRequests	I'm looking for a hotel that offer a fitness center or gym access.
+NewBooking_SpecialRequests	I'm looking for a hotel that offers a fitness mall or gym access.
+NewBooking_SpecialRequests	I'm looking for a hotel that offers a fitness midpoint or gym access.
+NewBooking_SpecialRequests	I'm attend for a hotel that offers a free breakfast option.
+NewBooking_SpecialRequests	I'm looking for a hotel that go a free breakfast option.
+NewBooking_SpecialRequests	I'm looking for a hotel that offers a gratuitous breakfast option.
+NewBooking_SpecialRequests	I'm looking for a hotel that offers a liberate breakfast option.
+NewBooking_SpecialRequests	I'm bet for a hotel that offers a free shuttle service to nearby attractions.
+NewBooking_SpecialRequests	I'm looking for a hotel that proffer a free shuttle service to nearby attractions.
+NewBooking_SpecialRequests	I'm looking for a hotel that provide a free shuttle service to nearby attractions.
+NewBooking_SpecialRequests	I'm sounding for a hotel that offers a free shuttle service to nearby attractions.
+NewBooking_SpecialRequests	I'm expect for a hotel that offers a private check-in experience.
+NewBooking_SpecialRequests	I'm look for a hotel that offers a private check-in experience.
+NewBooking_SpecialRequests	I'm looking for a hotel that offers a private check-in feel.
+NewBooking_SpecialRequests	I'm looking for a hotel that proffer a private check-in experience.
+NewBooking_SpecialRequests	I'm jaunt with two people who are wheelchair-bound.
+NewBooking_SpecialRequests	I'm traveling with II people who are wheelchair-bound.
+NewBooking_SpecialRequests	I'm traveling with two mass who are wheelchair-bound.
+NewBooking_SpecialRequests	I'm traveling with two masses who are wheelchair-bound.
+NewBooking_SpecialRequests	Is it possible to Quran a room with a private balcony?
+NewBooking_SpecialRequests	Is it possible to book a way with a private balcony?
+NewBooking_SpecialRequests	Is it possible to leger a room with a private balcony?
+NewBooking_SpecialRequests	Is it possible to reserve a room with a private balcony?
+NewBooking_SpecialRequests	Is there a way to Koran a room with a private coffee maker or tea station?
+NewBooking_SpecialRequests	Is there a way to book a room with a private coffee Almighty or tea station?
+NewBooking_SpecialRequests	Is there a way to book a room with a private coffee Maker or tea station?
+NewBooking_SpecialRequests	Is there a way to book a room with a private coffee manufacturer or tea station?
+NewBooking_SpecialRequests	Is there a way to Book a room with a private meeting space?
+NewBooking_SpecialRequests	Is there a way to Word a room with a private meeting space?
+NewBooking_SpecialRequests	Is there a way to book a room with a private meeting distance?
+NewBooking_SpecialRequests	Is there a way to book a room with a private play space?
+NewBooking_SpecialRequests	Is there a means to book a room with a private patio or outdoor space?
+NewBooking_SpecialRequests	Is there a way to ledger a room with a private patio or outdoor space?
+NewBooking_SpecialRequests	be there a way to book a room with a private patio or outdoor space?
+NewBooking_SpecialRequests	cost there a way to book a room with a private patio or outdoor space?
+NewBooking_SpecialRequests	Is there a way to Koran a room with a separate living area?
+NewBooking_SpecialRequests	Is there a way to book a room with a furcate living area?
+NewBooking_SpecialRequests	Is there a way to book a room with a part living area?
+NewBooking_SpecialRequests	Is there a way to book a room with a secern living area?
+NewBooking_SpecialRequests	Is there a way to book a room with a disunite living room or den?
+NewBooking_SpecialRequests	Is there a way to book a room with a separate be room or den?
+NewBooking_SpecialRequests	Is there a way to book a room with a separate know room or den?
+NewBooking_SpecialRequests	personify there a way to book a room with a separate living room or den?
+NewBooking_SpecialRequests	Is there a way to elevate my room without incurring extra costs?
+NewBooking_SpecialRequests	Is there a way to raise my room without incurring extra costs?
+NewBooking_SpecialRequests	Is there a way to upgrade my room without find extra costs?
+NewBooking_SpecialRequests	constitute there a way to upgrade my room without incurring extra costs?
+NewBooking_SpecialRequests	Our group has a bunch of luggage, is there extra storage available?
+NewBooking_SpecialRequests	Our group has a flock of luggage, is there extra storage available?
+NewBooking_SpecialRequests	Our group has a plenty of luggage, is there extra storage available?
+NewBooking_SpecialRequests	Our group has a sight of luggage, is there extra storage available?
+NewBooking_SpecialRequests	Our group has a bunch of mobility issues and would like a room with easy access.
+NewBooking_SpecialRequests	Our group has a circle of mobility issues and would like a room with easy access.
+NewBooking_SpecialRequests	Our group has a lot of mobility issues and would alike a room with easy access.
+NewBooking_SpecialRequests	Our group has a lot of mobility issues and would like a room with prosperous access.
+NewBooking_SpecialRequests	Our group is celebrating a milestone birthday and would corresponding a customized celebration package.
+NewBooking_SpecialRequests	Our group is celebrating a milestone birthday and would ilk a customized celebration package.
+NewBooking_SpecialRequests	Our group is celebrating a milestone birthday and would similar a customized celebration package.
+NewBooking_SpecialRequests	Our group is keep a milestone birthday and would like a customized celebration package.
+NewBooking_SpecialRequests	Our group is celebrating a especial event and would like a customized welcome package.
+NewBooking_SpecialRequests	Our group is celebrating a limited event and would like a customized welcome package.
+NewBooking_SpecialRequests	Our group is celebrating a special event and would alike a customized welcome package.
+NewBooking_SpecialRequests	Our group is celebrating a special event and would like a customized welcome packet.
+NewBooking_SpecialRequests	Our company size has changed, can you update the booking?
+NewBooking_SpecialRequests	Our party size has changed, can you update the reserve?
+NewBooking_SpecialRequests	Our party size has switch, can you update the booking?
+NewBooking_SpecialRequests	Our party sizing has changed, can you update the booking?
+NewBooking_SpecialRequests	We're celebrating a milestone anniversary and would like a amorous dinner setup.
+NewBooking_SpecialRequests	We're celebrating a milestone anniversary and would same a romantic dinner setup.
+NewBooking_SpecialRequests	We're celebrating a milestone anniversary and would wish a romantic dinner setup.
+NewBooking_SpecialRequests	We're keep a milestone anniversary and would like a romantic dinner setup.
+NewBooking_SpecialRequests	We're celebrating a special affair and would like a customized birthday cake delivery.
+NewBooking_SpecialRequests	We're celebrating a special occasion and would corresponding a customized birthday cake delivery.
+NewBooking_SpecialRequests	We're celebrating a special occasion and would like a customize birthday cake delivery.
+NewBooking_SpecialRequests	We're celebrating a special occasion and would like a customized birthday cake bringing.
+NewBooking_SpecialRequests	We're celebrating a especial occasion and would like a surprise upgrade.
+NewBooking_SpecialRequests	We're celebrating a special juncture and would like a surprise upgrade.
+NewBooking_SpecialRequests	We're celebrating a special occasion and would like a surprise advance.
+NewBooking_SpecialRequests	We're celebrating a special occasion and would similar a surprise upgrade.
+NewBooking_SpecialRequests	We're appear for accommodations that can accommodate a stroller.
+NewBooking_SpecialRequests	We're looking for accommodations that can adapt a stroller.
+NewBooking_SpecialRequests	We're looking for accommodations that can admit a stroller.
+NewBooking_SpecialRequests	We're looking for accommodations that can fit a stroller.
+NewBooking_SpecialRequests	We're travel for business and need a quiet, productive environment.
+NewBooking_SpecialRequests	We're traveling for business and need a hushed, productive environment.
+NewBooking_SpecialRequests	We're traveling for business and need a quiet, productive environs.
+NewBooking_SpecialRequests	We're traveling for business and want a quiet, productive environment.
+NewBooking_SpecialRequests	We're jaunt with pets, can you accommodate us?
+NewBooking_SpecialRequests	We're traveling with favorite, can you accommodate us?
+NewBooking_SpecialRequests	We're traveling with pet, can you accommodate us?
+NewBooking_SpecialRequests	We're traveling with pets, can you accommodate uranium?

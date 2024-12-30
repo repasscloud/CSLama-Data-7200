@@ -1,0 +1,544 @@
+Help_Restart	Can I flummox a new quote for my company's travel?
+Help_Restart	Can I mystify a new quote for my company's travel?
+Help_Restart	Can I obtain a new quote for my company's travel?
+Help_Restart	displace I get a new quote for my company's travel?
+Help_Restart	Can I amaze a new quote for my trip?
+Help_Restart	Can iodine get a new quote for my trip?
+Help_Restart	fundament I get a new quote for my trip?
+Help_Restart	nates I get a new quote for my trip?
+Help_Restart	Can I convey assistance with my company's travel arrangements?
+Help_Restart	Can I get assistance with my company's travel arrangement?
+Help_Restart	Can I produce assistance with my company's travel arrangements?
+Help_Restart	Can single get assistance with my company's travel arrangements?
+Help_Restart	Can I baffle assistance with my company's travel policy?
+Help_Restart	Can I scram assistance with my company's travel policy?
+Help_Restart	seat I get assistance with my company's travel policy?
+Help_Restart	throne I get assistance with my company's travel policy?
+Help_Restart	Can I arrive your assistance with a business travel quote now?
+Help_Restart	Can I draw your assistance with a business travel quote now?
+Help_Restart	Can I get your assistance with a business travel citation now?
+Help_Restart	lav I get your assistance with a business travel quote now?
+Help_Restart	Can I convey your assistance with a last-minute booking now?
+Help_Restart	Can one get your assistance with a last-minute booking now?
+Help_Restart	buns I get your assistance with a last-minute booking now?
+Help_Restart	fanny I get your assistance with a last-minute booking now?
+Help_Restart	Can I bewilder your assistance with a last-minute booking?
+Help_Restart	Can I fetch your assistance with a last-minute booking?
+Help_Restart	Can I get your assistance with a last-minute book?
+Help_Restart	Can I nonplus your assistance with a last-minute booking?
+Help_Restart	Can I drive your assistance with a new booking?
+Help_Restart	Can I dumbfound your assistance with a new booking?
+Help_Restart	Can I get your aid with a new booking?
+Help_Restart	sack I get your assistance with a new booking?
+Help_Restart	Can I bewilder your assistance with a return ticket now?
+Help_Restart	Can I get your assistance with a retort ticket now?
+Help_Restart	bum I get your assistance with a return ticket now?
+Help_Restart	tush I get your assistance with a return ticket now?
+Help_Restart	Can I arrive your assistance with a return ticket?
+Help_Restart	backside I get your assistance with a return ticket?
+Help_Restart	rump I get your assistance with a return ticket?
+Help_Restart	stool I get your assistance with a return ticket?
+Help_Restart	Can I baffle your help with a business travel quote?
+Help_Restart	Can I get your help with a job travel quote?
+Help_Restart	Can I gravel your help with a business travel quote?
+Help_Restart	potty I get your help with a business travel quote?
+Help_Restart	Can I make your help with a last-minute booking?
+Help_Restart	Can unity get your help with a last-minute booking?
+Help_Restart	fanny I get your help with a last-minute booking?
+Help_Restart	lavatory I get your help with a last-minute booking?
+Help_Restart	Can I draw your help with my company's travel arrangements?
+Help_Restart	Can I stick your help with my company's travel arrangements?
+Help_Restart	Can I stimulate your help with my company's travel arrangements?
+Help_Restart	derriere I get your help with my company's travel arrangements?
+Help_Restart	Can I beget your help with my company's travel policy?
+Help_Restart	Can I draw your help with my company's travel policy?
+Help_Restart	Can I have your help with my company's travel policy?
+Help_Restart	hindquarters I get your help with my company's travel policy?
+Help_Restart	Can you aid me with flight cancellations?
+Help_Restart	bottom you assist me with flight cancellations?
+Help_Restart	crapper you assist me with flight cancellations?
+Help_Restart	sack you assist me with flight cancellations?
+Help_Restart	Can you assistance me with my travel plans?
+Help_Restart	Can you help me with my travel contrive?
+Help_Restart	Can you help me with my traveling plans?
+Help_Restart	tush you help me with my travel plans?
+Help_Restart	Can you please assist me with my company's travelling?
+Help_Restart	crapper you please assist me with my company's travel?
+Help_Restart	stern you please assist me with my company's travel?
+Help_Restart	stool you please assist me with my company's travel?
+Help_Restart	Can you please assist with a give ticket now?
+Help_Restart	Can you please assist with a refund ticket now?
+Help_Restart	Can you please assist with a revert ticket now?
+Help_Restart	backside you please assist with a return ticket now?
+Help_Restart	Can you please assist with a travel matter?
+Help_Restart	nates you please assist with a travel issue?
+Help_Restart	rear you please assist with a travel issue?
+Help_Restart	rump you please assist with a travel issue?
+Help_Restart	Can you please assist with travel organisation?
+Help_Restart	bum you please assist with travel arrangements?
+Help_Restart	buttocks you please assist with travel arrangements?
+Help_Restart	tin you please assist with travel arrangements?
+Help_Restart	Can you please reiterate the travel toll and options?
+Help_Restart	buttocks you please reiterate the travel costs and options?
+Help_Restart	rump you please reiterate the travel costs and options?
+Help_Restart	throne you please reiterate the travel costs and options?
+Help_Restart	behind you please reiterate the travel options and costs?
+Help_Restart	butt you please reiterate the travel options and costs?
+Help_Restart	fundament you please reiterate the travel options and costs?
+Help_Restart	seat you please reiterate the travel options and costs?
+Help_Restart	Can you please retell the travel options?
+Help_Restart	buttocks you please reiterate the travel options?
+Help_Restart	john you please reiterate the travel options?
+Help_Restart	tush you please reiterate the travel options?
+Help_Restart	Hi again, I need to book a new travel.
+Help_Restart	Hi again, I need to hold a new trip.
+Help_Restart	Hi again, I need to reserve a new trip.
+Help_Restart	Hi again, iodine need to book a new trip.
+Help_Restart	Hi again, can you aid me with my travel plans?
+Help_Restart	Hi again, can you avail me with my travel plans?
+Help_Restart	Hi again, can you help me with my go plans?
+Help_Restart	Hi again, can you service me with my travel plans?
+Help_Restart	Hi again, how's your day expiration?
+Help_Restart	Hi again, how's your day locomote?
+Help_Restart	Hi again, how's your day release?
+Help_Restart	howdy again, how's your day going?
+Help_Restart	Hawai'i again, what was our conversation about?
+Help_Restart	Hawaii again, what was our conversation about?
+Help_Restart	hello again, what was our conversation about?
+Help_Restart	howdy again, what was our conversation about?
+Help_Restart	Hi again, what was our old conversation about?
+Help_Restart	hi again, what was our previous conversation about?
+Help_Restart	how-do-you-do again, what was our previous conversation about?
+Help_Restart	howdy again, what was our previous conversation about?
+Help_Restart	Hawai'i again, what's the status on our previous conversation?
+Help_Restart	Hi again, what's the condition on our previous conversation?
+Help_Restart	Hi again, what's the status on our late conversation?
+Help_Restart	hello again, what's the status on our previous conversation?
+Help_Restart	Hi again, what's your availability alike?
+Help_Restart	Hi again, what's your handiness like?
+Help_Restart	hi again, what's your availability like?
+Help_Restart	how-do-you-do again, what's your availability like?
+Help_Restart	How do I book a freshly flight?
+Help_Restart	How do I book a young flight?
+Help_Restart	How do I leger a new flight?
+Help_Restart	How do I record a new flight?
+Help_Restart	How do I cancel my current escape now?
+Help_Restart	How do I cancel my current flying now?
+Help_Restart	How do ace cancel my current flight now?
+Help_Restart	How do iodin cancel my current flight now?
+Help_Restart	I remember I made a mistake on my previous request.
+Help_Restart	I think I crap a mistake on my previous request.
+Help_Restart	I think I earn a mistake on my previous request.
+Help_Restart	I think I made a misunderstanding on my previous request.
+Help_Restart	I consider I need to update my itinerary.
+Help_Restart	I opine I need to update my itinerary.
+Help_Restart	I retrieve I need to update my itinerary.
+Help_Restart	I think one need to update my itinerary.
+Help_Restart	My companion is booking multiple flights - can you help?
+Help_Restart	My company is booking multiple flights - can you assist?
+Help_Restart	My company is engagement multiple flights - can you help?
+Help_Restart	My fellowship is booking multiple flights - can you help?
+Help_Restart	My accompany is booking multiple flights - can you walk me through it?
+Help_Restart	My companion is booking multiple flights - can you walk me through it?
+Help_Restart	My company is hold multiple flights - can you walk me through it?
+Help_Restart	My troupe is booking multiple flights - can you walk me through it?
+Help_Restart	My company is booking multiple flights - what's the march like?
+Help_Restart	My company is booking multiple flights - what's the sue like?
+Help_Restart	My party is booking multiple flights - what's the process like?
+Help_Restart	My society is booking multiple flights - what's the process like?
+Help_Restart	My fledge has been cancelled - can you help me rebook?
+Help_Restart	My flight has been cancelled - can you aid me rebook?
+Help_Restart	My flight has been cancelled - can you avail me rebook?
+Help_Restart	My trajectory has been cancelled - can you help me rebook?
+Help_Restart	My flight has been off - what do I do now?
+Help_Restart	My flight has been offset - what do I do now?
+Help_Restart	My flight has been scratch - what do I do now?
+Help_Restart	My trajectory has been cancelled - what do I do now?
+Help_Restart	My flight has been check - what do I do now?
+Help_Restart	My flight has been delayed - what do one do now?
+Help_Restart	My flight has been retard - what do I do now?
+Help_Restart	My trajectory has been delayed - what do I do now?
+Help_Restart	My actuate has been cancelled - what do I do now?
+Help_Restart	My stumble has been cancelled - what do I do now?
+Help_Restart	My trip has been cancelled - what do i do now?
+Help_Restart	My trip has been cancelled - what do one do now?
+Help_Restart	My activate has been rescheduled - what do I do now?
+Help_Restart	My trip has been rescheduled - what do iodin do now?
+Help_Restart	My trip has been rescheduled - what do iodine do now?
+Help_Restart	My trip has been rescheduled - what do one do now?
+Help_Restart	blue for the confusion, can we restart?
+Help_Restart	disconsolate for the confusion, can we restart?
+Help_Restart	drab for the confusion, can we restart?
+Help_Restart	good-for-naught for the confusion, can we restart?
+Help_Restart	Sorry for the confusion, can we beginning fresh?
+Help_Restart	Sorry for the confusion, can we scratch fresh?
+Help_Restart	Sorry for the discombobulation, can we start fresh?
+Help_Restart	regretful for the confusion, can we start fresh?
+Help_Restart	Sorry for the confusion, can we beginning over again?
+Help_Restart	Sorry for the confusion, can we pop over again?
+Help_Restart	Sorry for the muddiness, can we start over again?
+Help_Restart	pitiful for the confusion, can we start over again?
+Help_Restart	Sorry for the delay, can we cream up where we left off?
+Help_Restart	Sorry for the delay, can we plectron up where we left off?
+Help_Restart	Sorry for the delay, can we woof up where we left off?
+Help_Restart	dark for the delay, can we pick up where we left off?
+Help_Restart	Sorry for the delay, can we commence over?
+Help_Restart	Sorry for the delay, can we commencement over?
+Help_Restart	Sorry for the delay, can we offset over?
+Help_Restart	drab for the delay, can we start over?
+Help_Restart	Sorry for the mistake, can we reappraisal our conversation again?
+Help_Restart	Sorry for the mistake, can we reexamination our conversation again?
+Help_Restart	dismal for the mistake, can we review our conversation again?
+Help_Restart	drear for the mistake, can we review our conversation again?
+Help_Restart	Sorry for the mistake, can we protrude fresh?
+Help_Restart	Sorry for the mistake, can we scratch fresh?
+Help_Restart	Sorry for the mistake, can we start invigorated?
+Help_Restart	no-count for the mistake, can we start fresh?
+Help_Restart	What are the best airports to pilot into?
+Help_Restart	What are the best airports to tent-fly into?
+Help_Restart	What are the honorable airports to fly into?
+Help_Restart	What are the safe airports to fly into?
+Help_Restart	What are the honest flights for our team?
+Help_Restart	What are the honorable flights for our team?
+Help_Restart	What are the intimately flights for our team?
+Help_Restart	What are the safe flights for our team?
+Help_Restart	What are the best choice for business travel?
+Help_Restart	What are the best options for business journey?
+Help_Restart	What are the full options for business travel?
+Help_Restart	What are the outflank options for business travel?
+Help_Restart	What are the best selection for leisure travel?
+Help_Restart	What are the expert options for leisure travel?
+Help_Restart	What are the honest options for leisure travel?
+Help_Restart	What are the upright options for leisure travel?
+Help_Restart	What's the best direction to book a new flight?
+Help_Restart	What's the best way to book a fresh flight?
+Help_Restart	What's the best way to book a new escape?
+Help_Restart	What's the effective way to book a new flight?
+Help_Restart	What's the policy on changing fledge dates?
+Help_Restart	What's the policy on changing flight date?
+Help_Restart	What's the policy on convert flight dates?
+Help_Restart	What's the policy on transfer flight dates?
+Help_Restart	Are there any other benefits or perks to our company's employee discounts curriculum?
+Help_Restart	Are there any other benefits or perquisite to our company's employee discounts program?
+Help_Restart	Are there any other profit or perks to our company's employee discounts program?
+Help_Restart	follow there any other benefits or perks to our company's employee discounts program?
+Help_Restart	Are there any other options for exile that aren't driving myself?
+Help_Restart	Are there any other options for transferral that aren't driving myself?
+Help_Restart	Are there any other options for transportation that aren't motor myself?
+Help_Restart	cost there any other options for transportation that aren't driving myself?
+Help_Restart	Are there any other ways to generate there more affordably?
+Help_Restart	Are there any other ways to obtain there more affordably?
+Help_Restart	Are there any other ways to suffer there more affordably?
+Help_Restart	live there any other ways to get there more affordably?
+Help_Restart	Are there any security bar or protocols we need to be aware of when traveling?
+Help_Restart	Are there any security measure or protocols we need to be aware of when traveling?
+Help_Restart	Are there any security quantity or protocols we need to be aware of when traveling?
+Help_Restart	ar there any security measures or protocols we need to be aware of when traveling?
+Help_Restart	Are there any particular requirements for traveling to certain countries or regions?
+Help_Restart	Are there any special requirements for journey to certain countries or regions?
+Help_Restart	Are there any special requirements for move to certain countries or regions?
+Help_Restart	Are there any special requirements for traveling to certain land or regions?
+Help_Restart	Are there any specific deadline or requirements for travel arrangements?
+Help_Restart	Are there any specific deadlines or requirements for jaunt arrangements?
+Help_Restart	comprise there any specific deadlines or requirements for travel arrangements?
+Help_Restart	live there any specific deadlines or requirements for travel arrangements?
+Help_Restart	Are there any specific documents compulsory for check-in or travel?
+Help_Restart	Are there any specific papers required for check-in or travel?
+Help_Restart	ar there any specific documents required for check-in or travel?
+Help_Restart	be there any specific documents required for check-in or travel?
+Help_Restart	Are there any specific guidelines or regulations we need to follow when using our company credit scorecard abroad again?
+Help_Restart	Are there any specific guidelines or regulations we pauperization to follow when using our company credit cards abroad again?
+Help_Restart	Are there any specific guidelines or regulations we postulate to follow when using our company credit cards abroad again?
+Help_Restart	live there any specific guidelines or regulations we need to follow when using our company credit cards abroad again?
+Help_Restart	Are there any specific guidelines or regularisation we need to follow when using our company credit cards abroad?
+Help_Restart	Are there any specific guidelines or regulating we need to follow when using our company credit cards abroad?
+Help_Restart	Are there any specific guidelines or regulations we need to comply when using our company credit cards abroad?
+Help_Restart	Are there any specific guidelines or regulations we need to follow when using our company reference cards abroad?
+Help_Restart	Are there any specific guidelines or regulations we need to follow when using our company credit wag at home?
+Help_Restart	Are there any specific guidelines or regulations we need to follow when using our party credit cards at home?
+Help_Restart	Are there any specific guidelines or regulations we take to follow when using our company credit cards at home?
+Help_Restart	embody there any specific guidelines or regulations we need to follow when using our company credit cards at home?
+Help_Restart	Are there any specific necessity for travel documents, such as visas or passports?
+Help_Restart	Are there any specific requirements for travel documents, such as visa or passports?
+Help_Restart	Are there any specific requirements for travel documents, such as visas or passport?
+Help_Restart	personify there any specific requirements for travel documents, such as visas or passports?
+Help_Restart	Are there any specific requirements for go insurance or medical coverage?
+Help_Restart	Are there any specific requirements for travel policy or medical coverage?
+Help_Restart	cost there any specific requirements for travel insurance or medical coverage?
+Help_Restart	personify there any specific requirements for travel insurance or medical coverage?
+Help_Restart	Can we discuss alternative options that mightiness be more suitable?
+Help_Restart	fundament we discuss alternative options that might be more suitable?
+Help_Restart	stool we discuss alternative options that might be more suitable?
+Help_Restart	tin we discuss alternative options that might be more suitable?
+Help_Restart	Can we discuss the possibility of sum a spouse to my policy?
+Help_Restart	Can we discuss the theory of adding a spouse to my policy?
+Help_Restart	ass we discuss the possibility of adding a spouse to my policy?
+Help_Restart	john we discuss the possibility of adding a spouse to my policy?
+Help_Restart	Can we discuss locomote arrangements and business meetings simultaneously?
+Help_Restart	Can we discuss locomotion arrangements and business meetings simultaneously?
+Help_Restart	backside we discuss travel arrangements and business meetings simultaneously?
+Help_Restart	potty we discuss travel arrangements and business meetings simultaneously?
+Help_Restart	Can we discuss go arrangements and family plans simultaneously?
+Help_Restart	Can we discuss travel arrangements and home plans simultaneously?
+Help_Restart	commode we discuss travel arrangements and family plans simultaneously?
+Help_Restart	rump we discuss travel arrangements and family plans simultaneously?
+Help_Restart	Can we discuss travel pick and itineraries for upcoming business trips?
+Help_Restart	dismiss we discuss travel options and itineraries for upcoming business trips?
+Help_Restart	rear we discuss travel options and itineraries for upcoming business trips?
+Help_Restart	tail we discuss travel options and itineraries for upcoming business trips?
+Help_Restart	Can we discourse travel options and itineraries for upcoming meetings?
+Help_Restart	Can we discuss travel options and itineraries for forthcoming meetings?
+Help_Restart	behind we discuss travel options and itineraries for upcoming meetings?
+Help_Restart	posterior we discuss travel options and itineraries for upcoming meetings?
+Help_Restart	Can we retrospect the payment terms and conditions of my contract again?
+Help_Restart	Can we review the payment terms and conditions of my abridge again?
+Help_Restart	Can we review the payment terms and conditions of my foreshorten again?
+Help_Restart	tush we review the payment terms and conditions of my contract again?
+Help_Restart	Can we review the safety procedures and protocols for our fellowship travelers again?
+Help_Restart	Can we review the safety procedures and protocols for our party travelers again?
+Help_Restart	backside we review the safety procedures and protocols for our company travelers again?
+Help_Restart	butt we review the safety procedures and protocols for our company travelers again?
+Help_Restart	Can we recapitulation the safety procedures and protocols for our company travelers?
+Help_Restart	Can we review the safe procedures and protocols for our company travelers?
+Help_Restart	Can we review the safety operation and protocols for our company travelers?
+Help_Restart	Can we review the safety routine and protocols for our company travelers?
+Help_Restart	Can we reexamination the terms and conditions of my contract again?
+Help_Restart	Can we review the terms and shape of my contract again?
+Help_Restart	commode we review the terms and conditions of my contract again?
+Help_Restart	nates we review the terms and conditions of my contract again?
+Help_Restart	Can we followup the terms and conditions of our company's employee benefits package again?
+Help_Restart	Can we review the terms and weather of our company's employee benefits package again?
+Help_Restart	potty we review the terms and conditions of our company's employee benefits package again?
+Help_Restart	toilet we review the terms and conditions of our company's employee benefits package again?
+Help_Restart	Can we revisit the itinerary for tomorrow's confluence?
+Help_Restart	behind we revisit the itinerary for tomorrow's meeting?
+Help_Restart	butt we revisit the itinerary for tomorrow's meeting?
+Help_Restart	tin we revisit the itinerary for tomorrow's meeting?
+Help_Restart	Can we start over from the offset?
+Help_Restart	bottom we start over from the beginning?
+Help_Restart	throne we start over from the beginning?
+Help_Restart	toilet we start over from the beginning?
+Help_Restart	Can we blab about the costs associated with our current plan?
+Help_Restart	Can we talk about the cost associated with our current plan?
+Help_Restart	behind we talk about the costs associated with our current plan?
+Help_Restart	tin we talk about the costs associated with our current plan?
+Help_Restart	Can you clarify the details of my hold?
+Help_Restart	ass you clarify the details of my booking?
+Help_Restart	dismiss you clarify the details of my booking?
+Help_Restart	lav you clarify the details of my booking?
+Help_Restart	Can you restate what we discussed previously?
+Help_Restart	commode you repeat what we discussed previously?
+Help_Restart	fire you repeat what we discussed previously?
+Help_Restart	tail you repeat what we discussed previously?
+Help_Restart	Can you tell me again what's continue under our company's travel insurance?
+Help_Restart	Can you tell me again what's embrace under our company's travel insurance?
+Help_Restart	Can you tell me again what's track under our company's travel insurance?
+Help_Restart	nates you tell me again what's covered under our company's travel insurance?
+Help_Restart	Could you resume our current discussion?
+Help_Restart	Could you summarise our current discussion?
+Help_Restart	Could you summarize our current discourse?
+Help_Restart	Could you summarize our current word?
+Help_Restart	Do you have any assistance programs in shoes for employees traveling internationally?
+Help_Restart	Do you have any assistance programs in spot for employees traveling internationally?
+Help_Restart	act you have any assistance programs in place for employees traveling internationally?
+Help_Restart	suffice you have any assistance programs in place for employees traveling internationally?
+Help_Restart	DO you have any assistance programs in place for employees traveling with disabilities?
+Help_Restart	Do you have any assistance programs in locate for employees traveling with disabilities?
+Help_Restart	Do you have any help programs in place for employees traveling with disabilities?
+Help_Restart	practice you have any assistance programs in place for employees traveling with disabilities?
+Help_Restart	DO you have any recommendations for local restaurants or dining options while traveling?
+Help_Restart	Do you have any recommendations for local restaurant or dining options while traveling?
+Help_Restart	Do you have any recommendations for local restaurants or dining options while go?
+Help_Restart	doh you have any recommendations for local restaurants or dining options while traveling?
+Help_Restart	Do you have any recommendations for commit to stay nearby?
+Help_Restart	Do you have any recommendations for order to stay nearby?
+Help_Restart	Do you have any recommendations for places to remain nearby?
+Help_Restart	Do you have any recommendations for property to stay nearby?
+Help_Restart	Do you have any recommendations for invest to visit on my days off while traveling for work?
+Help_Restart	Do you have any recommendations for places to chitchat on my days off while traveling for work?
+Help_Restart	Do you have any recommendations for places to visit on my days off while trip for work?
+Help_Restart	Do you have any recommendations for point to visit on my days off while traveling for work?
+Help_Restart	Do you have any recommendations for lay to visit while on business travel?
+Help_Restart	Do you have any recommendations for plaza to visit while on business travel?
+Help_Restart	Do you have any recommendations for range to visit while on business travel?
+Help_Restart	Do you have any testimonial for places to visit while on business travel?
+Help_Restart	Do you have any resources available for encyclopedism about local business etiquette and protocol?
+Help_Restart	Do you have any resources available for eruditeness about local business etiquette and protocol?
+Help_Restart	Do you have any resources available for learning about local occupation etiquette and protocol?
+Help_Restart	exercise you have any resources available for learning about local business etiquette and protocol?
+Help_Restart	Do you have any resources available for determine about local cultures and customs?
+Help_Restart	answer you have any resources available for learning about local cultures and customs?
+Help_Restart	coiffure you have any resources available for learning about local cultures and customs?
+Help_Restart	do you have any resources available for learning about local cultures and customs?
+Help_Restart	Do you have any special requirements or restrictions on companion credit cards?
+Help_Restart	Do you have any special requirements or restrictions on company credit menu?
+Help_Restart	Do you have any special requirements or restrictions on company credit notice?
+Help_Restart	answer you have any special requirements or restrictions on company credit cards?
+Help_Restart	Do you indigence help finding information about local customs and etiquette?
+Help_Restart	Do you need help see information about local customs and etiquette?
+Help_Restart	practice you need help finding information about local customs and etiquette?
+Help_Restart	suffice you need help finding information about local customs and etiquette?
+Help_Restart	Do you necessitate help finding information about our company's travel policy?
+Help_Restart	Do you need facilitate finding information about our company's travel policy?
+Help_Restart	coiffe you need help finding information about our company's travel policy?
+Help_Restart	execute you need help finding information about our company's travel policy?
+Help_Restart	Do you need help feel travel information for a specific date?
+Help_Restart	Do you need help finding travel information for a specific escort?
+Help_Restart	Do you need service finding travel information for a specific date?
+Help_Restart	coiffure you need help finding travel information for a specific date?
+Help_Restart	Do you indigence help with anything else regarding my trip?
+Help_Restart	Do you motive help with anything else regarding my trip?
+Help_Restart	Do you need help with anything else involve my trip?
+Help_Restart	Do you need help with anything else regarding my spark?
+Help_Restart	Do you want me to break ahead and book this flight for you now?
+Help_Restart	Do you want me to extend ahead and book this flight for you now?
+Help_Restart	Do you want me to go ahead and Koran this flight for you now?
+Help_Restart	cause you want me to go ahead and book this flight for you now?
+Help_Restart	Do you deprivation to continue discussing travel options?
+Help_Restart	answer you want to continue discussing travel options?
+Help_Restart	fare you want to continue discussing travel options?
+Help_Restart	practise you want to continue discussing travel options?
+Help_Restart	Here are 80 assertion to train a corporate travel chatbot:
+Help_Restart	Here are 80 statements to check a corporate travel chatbot:
+Help_Restart	Here are 80 statements to prepare a corporate travel chatbot:
+Help_Restart	here are 80 statements to train a corporate travel chatbot:
+Help_Restart	How do I fix a boarding pass or access to airport facilities?
+Help_Restart	How do I get a boarding fall or access to airport facilities?
+Help_Restart	How do I get a boarding passing or access to airport facilities?
+Help_Restart	How do I stupefy a boarding pass or access to airport facilities?
+Help_Restart	How do I begin a copy of my boarding pass or flight itinerary?
+Help_Restart	How do I get a copy of my boarding flip or flight itinerary?
+Help_Restart	How do I get a copy of my boarding offer or flight itinerary?
+Help_Restart	How do I get a copy of my boarding top or flight itinerary?
+Help_Restart	How do I catch a refund or cancel my booking if needed?
+Help_Restart	How do I convey a refund or cancel my booking if needed?
+Help_Restart	How do I develop a refund or cancel my booking if needed?
+Help_Restart	How do ace get a refund or cancel my booking if needed?
+Help_Restart	How do I drive help with language barriers or translation services while traveling internationally?
+Help_Restart	How do I get help with language roadblock or translation services while traveling internationally?
+Help_Restart	How do I get service with language barriers or translation services while traveling internationally?
+Help_Restart	How do single get help with language barriers or translation services while traveling internationally?
+Help_Restart	How do I get help with language barriers or rendering services?
+Help_Restart	How do I get help with lyric barriers or translation services?
+Help_Restart	How do I gravel help with language barriers or translation services?
+Help_Restart	How do I nonplus help with language barriers or translation services?
+Help_Restart	How do I get in spot with a colleague who is also traveling internationally?
+Help_Restart	How do I mother in touch with a colleague who is also traveling internationally?
+Help_Restart	How do I stick in touch with a colleague who is also traveling internationally?
+Help_Restart	How do I vex in touch with a colleague who is also traveling internationally?
+Help_Restart	How do I find in touch with a colleague who is traveling internationally?
+Help_Restart	How do I get in stir with a colleague who is traveling internationally?
+Help_Restart	How do I sire in touch with a colleague who is traveling internationally?
+Help_Restart	How do single get in touch with a colleague who is traveling internationally?
+Help_Restart	How do I become in touch with our company's travel security team if needed?
+Help_Restart	How do I cause in touch with our company's travel security team if needed?
+Help_Restart	How do I get in touch with our company's travel security team if needful?
+Help_Restart	How do one get in touch with our company's travel security team if needed?
+Help_Restart	How do I get in advert with our travel department if needed?
+Help_Restart	How do I get in relate with our travel department if needed?
+Help_Restart	How do I mother in touch with our travel department if needed?
+Help_Restart	How do I nonplus in touch with our travel department if needed?
+Help_Restart	How do I get to the airport from habitation, what's the best option?
+Help_Restart	How do I get to the airport from home, what's the better option?
+Help_Restart	How do I get to the airport from home, what's the near option?
+Help_Restart	How do I incur to the airport from home, what's the best option?
+Help_Restart	How do I get to the nearest drome from my hotel?
+Help_Restart	How do I gravel to the nearest airport from my hotel?
+Help_Restart	How do I start to the nearest airport from my hotel?
+Help_Restart	How do one get to the nearest airport from my hotel?
+Help_Restart	How do I proceed with create changes to my booking now?
+Help_Restart	How do I proceed with making changes to my book now?
+Help_Restart	How do I proceed with making vary to my booking now?
+Help_Restart	How do unity proceed with making changes to my booking now?
+Help_Restart	How does this relate backrest to our previous conversation?
+Help_Restart	How does this relate backwards to our previous conversation?
+Help_Restart	How does this relate dorsum to our previous conversation?
+Help_Restart	How does this relate punt to our previous conversation?
+Help_Restart	I reckon I got lost in your previous response.
+Help_Restart	I think I draw lost in your previous response.
+Help_Restart	I think I mother lost in your previous response.
+Help_Restart	I think i got lost in your previous response.
+Help_Restart	1 think I missed something, can you fill me in?
+Help_Restart	I conceive I missed something, can you fill me in?
+Help_Restart	I reckon I missed something, can you fill me in?
+Help_Restart	I retrieve I missed something, can you fill me in?
+Help_Restart	I'd like to go backward to my original question.
+Help_Restart	I'd like to go binding to my original question.
+Help_Restart	I'd like to perish back to my original question.
+Help_Restart	I'd same to go back to my original question.
+Help_Restart	I'm not sure what you're generate at, can you explain?
+Help_Restart	I'm not sure what you're getting at, can you excuse?
+Help_Restart	I'm not sure what you're let at, can you explain?
+Help_Restart	I'm not sure what you're stimulate at, can you explain?
+Help_Restart	LET me ask that again, in a different way.
+Help_Restart	Let me ask that again, in a different direction.
+Help_Restart	Let me ask that again, in a dissimilar way.
+Help_Restart	Let me inquire that again, in a different way.
+Help_Restart	Lashkar-e-Toiba me check on something, just a moment.
+Help_Restart	Let me assure on something, just a moment.
+Help_Restart	Let me correspond on something, just a moment.
+Help_Restart	Let me hold on something, just a moment.
+Help_Restart	LET me rephrase that, if you'd like.
+Help_Restart	Let me rephrase that, if you'd comparable.
+Help_Restart	countenance me rephrase that, if you'd like.
+Help_Restart	have me rephrase that, if you'd like.
+Help_Restart	What if I forget my ID or other important document while traveling?
+Help_Restart	What if I forget my ID or other important documents while journey?
+Help_Restart	What if I forget my ID or other important documents while move?
+Help_Restart	What if I forget my ID or other significant documents while traveling?
+Help_Restart	What if I forgot something important before give?
+Help_Restart	What if I forgot something important before leave?
+Help_Restart	What if I forgot something significant before leaving?
+Help_Restart	What if unity forgot something important before leaving?
+Help_Restart	What if I need assistance with befuddled luggage or missing items?
+Help_Restart	What if I need assistance with lost luggage or miss items?
+Help_Restart	What if I need assistance with lost luggage or missing point?
+Help_Restart	What if one need assistance with lost luggage or missing items?
+Help_Restart	What if I need assistance with transfer options that are not driving myself?
+Help_Restart	What if I need assistance with transportation selection that are not driving myself?
+Help_Restart	What if i need assistance with transportation options that are not driving myself?
+Help_Restart	What if unity need assistance with transportation options that are not driving myself?
+Help_Restart	What if I necessitate assistance with travel arrangements today?
+Help_Restart	What if I need assist with travel arrangements today?
+Help_Restart	What if I need assistance with travel organisation today?
+Help_Restart	What if I postulate assistance with travel arrangements today?
+Help_Restart	What if I need aid finding accommodation options that meet certain criteria?
+Help_Restart	What if I need help finding accommodation options that forgather certain criteria?
+Help_Restart	What if I need help finding accommodation options that receive certain criteria?
+Help_Restart	What if unity need help finding accommodation options that meet certain criteria?
+Help_Restart	What if I need help with jam or preparing for my trip?
+Help_Restart	What if I need help with packing or groom for my trip?
+Help_Restart	What if I need help with pile or preparing for my trip?
+Help_Restart	What if I need help with tamp or preparing for my trip?
+Help_Restart	What if I want to bring a personal assistant or concierge service to my booking?
+Help_Restart	What if ace want to add a personal assistant or concierge service to my booking?
+Help_Restart	What if iodin want to add a personal assistant or concierge service to my booking?
+Help_Restart	What if single want to add a personal assistant or concierge service to my booking?
+Help_Restart	What if I want to ADD additional services to my booking, such as hotel upgrades?
+Help_Restart	What if I want to add additional service to my booking, such as hotel upgrades?
+Help_Restart	What if I want to append additional services to my booking, such as hotel upgrades?
+Help_Restart	What if I wish to add additional services to my booking, such as hotel upgrades?
+Help_Restart	What if 1 want to change my flight dates again?
+Help_Restart	What if I want to alteration my flight dates again?
+Help_Restart	What if I want to transfer my flight dates again?
+Help_Restart	What if i want to change my flight dates again?
+Help_Restart	What if I want to hold changes to my company credit card benefits?
+Help_Restart	What if I want to make changes to my company credit carte benefits?
+Help_Restart	What if I want to make changes to my fellowship credit card benefits?
+Help_Restart	What if I want to make switch to my company credit card benefits?
+Help_Restart	What if 1 want to make changes to my contract or policy agreement?
+Help_Restart	What if I want to make changes to my constrict or policy agreement?
+Help_Restart	What if I want to make shift to my contract or policy agreement?
+Help_Restart	What if iodin want to make changes to my contract or policy agreement?
+Help_Restart	What's next in our conversation about fledge?
+Help_Restart	What's next in our conversation about flight?
+Help_Restart	What's next in our conversation about trajectory?
+Help_Restart	What's succeeding in our conversation about flights?
+Help_Restart	What's the next step in ensure in for my flight?
+Help_Restart	What's the next step in moderate in for my flight?
+Help_Restart	What's the next step in tally in for my flight?
+Help_Restart	What's the succeeding step in checking in for my flight?
+Help_Restart	What's the action for requesting time off and planning vacations?
+Help_Restart	What's the process for requesting metre off and planning vacations?
+Help_Restart	What's the process for requesting time off and planning vacation?
+Help_Restart	What's the work for requesting time off and planning vacations?
