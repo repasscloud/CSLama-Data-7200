@@ -9,47 +9,10 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps:
-      # Step 1: Define Variables
-      - name: "Set Variables"
-        id: vars
-        run: |
-          REPO="repasscloud/CSLama"
-          LATEST_RELEASE=$(curl -s https://api.github.com/repos/$REPO/releases/latest | jq -r '.tag_name')
-          ZIP_URL="https://github.com/$REPO/releases/download/$LATEST_RELEASE/master-files-$LATEST_RELEASE.zip"
-          echo "zip_url=$ZIP_URL" >> $GITHUB_ENV
-          echo "latest_release=$LATEST_RELEASE" >> $GITHUB_ENV
+            # Step 1: Checkout repository
+      - name: "Checkout Code"
+        uses: actions/checkout@v4
 
-      # Step 2: Download the ZIP File
-      - name: "Download Latest Release ZIP"
-        run: |
-          curl -L ${{ env.zip_url }} --output master-files-${{ env.latest_release }}.zip
-
-      # Step 3: Unzip the Archive
-      - name: "Unzip Archive"
-        run: |
-          unzip master-files-${{ env.latest_release }}.zip -d unzipped
-
-      # Step 4: Process .txt Files
-      - name: "Process .txt Files"
-        run: |
-          # Create target directory for processed files
-          mkdir -p processed
-
-          # Find all .txt files and move them to 'processed' directory
-          find unzipped -type f -name "*.txt" -exec mv {} processed/ \;
-
-          # Concatenate all .txt files into one
-          combined_file="processed/combined.txt"
-          touch $combined_file
-          for txt_file in processed/*.txt; do
-            cat "$txt_file" >> $combined_file
-          done
-
-          # Remove blank lines
-          sed -i '/^$/d' $combined_file
-
-      # Step 5: Read the Final File
-      - name: "Read Combined File"
-        run: |
-          echo "Contents of the combined file:"
-          cat processed/combined.txt
+      - name: Execute
+        run: ./get_latest_release.sh
+        shell: bash
