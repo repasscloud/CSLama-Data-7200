@@ -18,3 +18,14 @@ jobs:
           chmod +x ./get_latest_release.sh
           ./get_latest_release.sh
         shell: bash
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+    
+      - name: Install ML.NET CLI
+        run: dotnet tool install -g mlnet-linux-x64
+        
+      - name: Train your model
+        run: mlnet classification --dataset "processed/combined.txt" --label-col 1 --has-header false --name SentimentModel  --train-time 60
