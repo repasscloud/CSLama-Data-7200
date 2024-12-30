@@ -1,4 +1,4 @@
-name: "Process Latest Release"
+name: "Process Latest Release 2hr"
 
 on:
   workflow_dispatch: # Trigger manually
