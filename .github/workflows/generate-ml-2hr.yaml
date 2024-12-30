@@ -1,0 +1,31 @@
+name: "Process Latest Release"
+
+on:
+  workflow_dispatch: # Trigger manually
+
+jobs:
+  process-latest-release:
+    name: "Process Latest Release"
+    runs-on: "ubuntu-latest"
+
+    steps:
+            # Step 1: Checkout repository
+      - name: "Checkout Code"
+        uses: actions/checkout@v4
+
+      - name: Execute
+        run: |
+          chmod +x ./get_latest_release.sh
+          ./get_latest_release.sh
+        shell: bash
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+    
+      - name: Install ML.NET CLI
+        run: dotnet tool install -g mlnet-linux-x64
+        
+      - name: Train your model
+        run: mlnet classification --dataset "processed/combined.txt" --label-col 1 --has-header false --name SentimentModel  --train-time 7200
