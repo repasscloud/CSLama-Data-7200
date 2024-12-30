@@ -12,16 +12,14 @@ if [[ $? -ne 0 || -z "$HTML" ]]; then
     exit 1
 fi
 
-# Save the HTML to a debug file for inspection (optional, useful for troubleshooting)
+# Save the HTML to a debug file for inspection
 DEBUG_FILE="debug_latest_release.html"
 echo "$HTML" > "$DEBUG_FILE"
-echo "Saved the release page HTML to $DEBUG_FILE for inspection."
 
-# Extract the version number from the <h2> tag with class "sr-only" inside the relevant <div>
-VERSION=$(echo "$HTML" | grep -oP '(?<=<h2 class="sr-only"[^>]*>v)\d{4}-\d{2}-\d{2}')
+# Extract the version number from the <title> tag
+VERSION=$(echo "$HTML" | grep -oE '<title>Release v[0-9]{4}-[0-9]{2}-[0-9]{2} ·' | grep -oE 'v[0-9]{4}-[0-9]{2}-[0-9]{2}' | sed 's/v//')
 if [[ -z "$VERSION" ]]; then
     echo "Error: Unable to extract the version number from the release page."
-    echo "Inspect the saved HTML file: $DEBUG_FILE"
     exit 1
 fi
 echo "Latest release version: $VERSION"
@@ -31,13 +29,11 @@ ZIP_URL="https://github.com/$REPO/releases/download/$VERSION/master-files-$VERSI
 echo "Using ZIP file URL: $ZIP_URL"
 
 # Download the ZIP file
-echo "Downloading ZIP file..."
 curl -L -o "master-files-$VERSION.zip" "$ZIP_URL"
 if [[ $? -ne 0 ]]; then
     echo "Error: Failed to download ZIP file."
     exit 1
 fi
-echo "Downloaded ZIP file: master-files-$VERSION.zip"
 
 # Unzip the file
 UNZIP_DIR="unzipped"
@@ -47,27 +43,28 @@ if [[ $? -ne 0 ]]; then
     echo "Error: Failed to unzip file."
     exit 1
 fi
-echo "Unzipped files to: $UNZIP_DIR"
 
-# Find and process .txt files
+# Process .txt files
 PROCESSED_DIR="processed"
 mkdir -p "$PROCESSED_DIR"
 
-echo "Processing .txt files..."
-find "$UNZIP_DIR" -type f -name "*.txt" -exec mv {} "$PROCESSED_DIR/" \;
+# Move all .txt files but exclude `combined.txt` if it exists
+find "$UNZIP_DIR" -type f -name "*.txt" ! -name "combined.txt" -exec mv {} "$PROCESSED_DIR/" \;
 
 COMBINED_FILE="$PROCESSED_DIR/combined.txt"
 > "$COMBINED_FILE" # Create or clear the combined file
 
+# Add all .txt files to the combined file, excluding the combined file itself
 for TXT_FILE in "$PROCESSED_DIR"/*.txt; do
-    echo "Adding $TXT_FILE to combined file..."
-    cat "$TXT_FILE" >> "$COMBINED_FILE"
+    if [[ "$TXT_FILE" != "$COMBINED_FILE" ]]; then
+        echo "Adding $TXT_FILE to combined file..."
+        cat "$TXT_FILE" >> "$COMBINED_FILE"
+    fi
 done
 
 # Remove blank lines
 sed -i '/^$/d' "$COMBINED_FILE"
-echo "Removed blank lines from combined file."
 
 # Output the combined file
 echo "Contents of the combined file:"
-cat "$COMBINED_FILE"
+ls -lh "$COMBINED_FILE" # Show size of the combined file
