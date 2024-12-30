@@ -1,4 +1,4 @@
-name: "Process Latest Release"
+name: "Process Latest Release with Matrix"
 
 on:
   workflow_dispatch: # Trigger manually
@@ -8,24 +8,32 @@ jobs:
     name: "Process Latest Release"
     runs-on: "ubuntu-latest"
 
+    strategy:
+      matrix:
+        train-time: [600, 3600, 7200] # Define train times for each parallel job
+
     steps:
-            # Step 1: Checkout repository
+      # Step 1: Checkout repository
       - name: "Checkout Code"
         uses: actions/checkout@v4
 
+      # Step 2: Execute the script to process the release
       - name: Execute
         run: |
           chmod +x ./get_latest_release.sh
           ./get_latest_release.sh
         shell: bash
 
+      # Step 3: Setup .NET
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 8.0.x
-    
+
+      # Step 4: Install ML.NET CLI
       - name: Install ML.NET CLI
         run: dotnet tool install -g mlnet-linux-x64
-        
+
+      # Step 5: Train the model with matrix train time
       - name: Train your model
-        run: mlnet classification --dataset "processed/combined.txt" --label-col 1 --has-header false --name SentimentModel  --train-time 3600
+        run: mlnet classification --dataset "processed/combined.txt" --label-col 1 --has-header false --name "SentimentModel_${{ matrix.train-time }}" --train-time ${{ matrix.train-time }}
