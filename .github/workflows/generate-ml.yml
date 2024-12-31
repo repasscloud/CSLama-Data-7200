@@ -1,16 +1,20 @@
 name: "Process Latest Release with 7200 seconds"
 
 on:
-  workflow_dispatch: # Trigger manually
+  workflow_dispatch: # Allow manual triggering with input
+    inputs:
+      model_build_time:
+        description: "Override model build time in seconds (e.g. '7200')"
+        required: false
+        default: "7200"
+
+env:
+  MODEL_BUILD_SECONDS: "7200"
 
 jobs:
   process-latest-release:
     name: "Process Latest Release"
     runs-on: "ubuntu-latest"
-
-    strategy:
-      matrix:
-        train-time: [7200] # Define train times for each parallel job
 
     steps:
       # Step 1: Checkout repository
@@ -36,7 +40,7 @@ jobs:
 
       # # Step 6: Train the model with matrix train time
       # - name: Train your model
-      #   run: mlnet classification --dataset "processed/combined_refactored.txt" --label-col 1 --has-header false --name "SentimentModel_${{ matrix.train-time }}" --train-time ${{ matrix.train-time }}
+      #   run: mlnet classification --dataset "processed/combined_refactored.txt" --label-col 1 --has-header false --name "SentimentModel_${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}" --train-time ${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}
 
       - name: Configure Git
         if: always()
