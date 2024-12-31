@@ -1,3 +1,4 @@
+User_Input	Classification
 keister you assist me with cancelling my conference registration?	ExistingBooking_CancelBooking
 sack you assist me with cancelling my conference registration?	ExistingBooking_CancelBooking
 throne you assist me with cancelling my conference registration?	ExistingBooking_CancelBooking
