@@ -4,6 +4,18 @@
 REPO="repasscloud/CSLama"
 BASE_URL="https://github.com/$REPO/releases/latest"
 
+# Remove files if they already exist
+if [ -d "$PWD/processed" ]; then
+    rm -rf "$PWD/processed"
+fi
+if [ -f "$PWD/debug_latest_release.html" ]; then
+    rm -rf "$PWD/debug_latest_release.html"
+fi
+
+# Remove any .zip or .ZIP files in the current directory
+find "$PWD" -maxdepth 1 -type f \( -iname "*.zip" \) -exec rm -f {} +
+
+
 # Fetch the HTML of the latest release page
 echo "Fetching latest release page..."
 HTML=$(curl -Ls "$BASE_URL")

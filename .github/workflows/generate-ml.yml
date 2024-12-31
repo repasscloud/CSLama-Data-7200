@@ -28,19 +28,19 @@ jobs:
           ./get_latest_release.sh
         shell: bash
 
-      # # Step 3: Setup .NET
-      # - name: Setup .NET
-      #   uses: actions/setup-dotnet@v4
-      #   with:
-      #     dotnet-version: 8.0.x
+      # Step 3: Setup .NET
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
 
-      # # Step 4: Install ML.NET CLI
-      # - name: Install ML.NET CLI
-      #   run: dotnet tool install -g mlnet-linux-x64
+      # Step 4: Install ML.NET CLI
+      - name: Install ML.NET CLI
+        run: dotnet tool install -g mlnet-linux-x64
 
-      # # Step 6: Train the model with matrix train time
-      # - name: Train your model
-      #   run: mlnet classification --dataset "processed/combined_refactored.txt" --label-col 1 --has-header false --name "SentimentModel_${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}" --train-time ${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}
+      # Step 6: Train the model with matrix train time
+      - name: Train your model
+        run: mlnet classification --dataset "processed/combined_refactored.txt" --label-col 1 --has-header false --name "SentimentModel_${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}" --train-time ${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}
 
       - name: Configure Git
         if: always()
