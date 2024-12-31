@@ -81,6 +81,9 @@ sed -i '/^$/d' "$COMBINED_FILE"
 COMBINED_REFACTORED="$PROCESSED_DIR/combined_refactored.txt"
 awk -F'\t' '{print $2 "\t" $1}' "$COMBINED_FILE" > "$COMBINED_REFACTORED"
 
+# Add headings to file
+sed -i '1i User_Input\tClassification' "$COMBINED_REFACTORED"
+
 # Output the combined file
 echo "Contents of the combined refactored file:"
 ls -lh "$COMBINED_REFACTORED" # Show size of the combined file
