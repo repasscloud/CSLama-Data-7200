@@ -41,9 +41,7 @@ jobs:
       # Step 6: Train the model with matrix train time
       - name: Train your model
         run: |
-          mlnet auto-train --task multiclass-classification --dataset "processed/combined_refactored.txt" --label-column-name Classification --max-exploration-time ${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}
-  
-        # mlnet classification --dataset "processed/combined_refactored.txt" --label-col 1 --has-header false --name "SentimentModel_${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}" --train-time ${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}
+          mlnet classification --dataset "processed/combined_refactored.txt" --label-col "Classification" --has-header true --name "SentimentModel_${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }}" --train-time ${{ github.event.inputs.model_build_time || env.MODEL_BUILD_SECONDS }} --verbosity diag
 
 # > 
 
